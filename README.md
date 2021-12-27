@@ -5,9 +5,15 @@ All credits go to the original author(s).
 
 Getting Started:
 
-1. git clone https://github.com/YungBinary/log4j_payload_downloader_docker.git
+1. Clone the repo:
+    ```sh
+    git clone https://github.com/YungBinary/log4j_payload_downloader_docker.git
+    ```
 
-2. cd log4j_payload_downloader_docker
+2. Change directory:
+    ```sh
+    cd log4j_payload_downloader_docker
+    ```
 
 3. Build the docker image:
     ```sh
